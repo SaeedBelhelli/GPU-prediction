@@ -117,21 +117,7 @@ fig.update_layout(
         x=0.01,
         bgcolor="rgba(0,0,0,0.3)"
     ),
-)
 
-fig.add_annotation(
-    x=0.5,
-    y=0.02,
-    xref='paper',
-    yref='paper',
-    text="👆 HOVER your mouse over any data point to see detailed GPU specifications",
-    showarrow=False,
-    font=dict(size=16, color='yellow'),
-    align='center',
-    bgcolor='rgba(0,0,0,0.5)',
-    bordercolor='yellow',
-    borderwidth=1,
-    borderpad=4
 )
 
 tier_buttons = [
