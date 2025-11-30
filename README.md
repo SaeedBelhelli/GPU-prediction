@@ -1,7 +1,7 @@
 **GPU Performance Modeling & Recommendation**
 
 Small project where I play with GPU specs and try to model performance for different use-cases (AI, gaming, balanced). It uses a curated dataset of recent NVIDIA RTX 30/40-series and AMD RX 6000/7000-series cards, some basic feature engineering, a random forest regressor, and a 3D Plotly visualization.
-
+2024-2025
 ---
 
 ### Requirements
