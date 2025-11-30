@@ -87,7 +87,3 @@ It will:
 * Change the `Perf_Index` values if you want to tune the relative performance scale.
 * Adjust the heuristic score weights in `add_heuristic_scores` if you want different priorities for AI vs gaming.
 * Swap the model in `train_perf_model` (e.g. try linear regression, gradient boosting, etc.).
-
-### License
-
-MIT.
